@@ -1,4 +1,4 @@
-DevMentor IDE
+DevMentor PHP IDE
 =============
 
 Es ist eine in Browser IDE vor allem ausgelegt für PHP Projekte.
